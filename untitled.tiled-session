@@ -1,0 +1,247 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Save MAP/ThreeMap/untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx": {
+            "scale": 0.89,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 458.9887640449439,
+                "y": 407.3033707865169
+            }
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Plant": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Props": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Shadow": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Shadow_Plant": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Struct": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx#Tileset_Stone_Ground": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx": {
+            "scale": 1.07,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 428.50467289719626,
+                "y": 310.74766355140184
+            }
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Plant": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Props": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Shadow": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Shadow Plant": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Struct": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Tileset Grass": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/TX Tileset Wall.tsx": {
+            "scaleInDock": 1.885,
+            "scaleInEditor": 1
+        },
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/Texture/TX Tileset Wall.tsx": {
+            "scaleInDock": 3.1386,
+            "scaleInEditor": 1.81
+        },
+        "Save MAP/SecoundSave/untitled.tmx": {
+            "scale": 0.97,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 595.360824742268,
+                "y": 319.07216494845363
+            }
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Props": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Shadow": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Shadow_Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Struct": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#TX_Tileset_Grass": {
+            "scaleInDock": 1
+        },
+        "Save MAP/SecoundSave/untitled.tmx#Tileset_Wall": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx": {
+            "scale": 0.93,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 430.64516129032256,
+                "y": 316.66666666666663
+            }
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Props": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Shadow": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Shadow_Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#TX_Struct": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Tileset_Grass": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#Tileset_Wall": {
+            "scaleInDock": 1
+        },
+        "Save MAP/ThreeMap/untitled.tmx#lava": {
+            "scaleInDock": 0.5154
+        },
+        "Save MAP/TutoSave/untitled.tmx": {
+            "scale": 0.86,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 371.51162790697674,
+                "y": 288.95348837209303
+            }
+        },
+        "Save MAP/TutoSave/untitled.tmx#Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#Props": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#Shadow": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#Shadow Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#Struct": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#TX Tileset Stone Ground": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "Save MAP/TutoSave/untitled.tmx#Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx": {
+            "scale": 0.61,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2994.2622950819673,
+                "y": 527.0491803278688
+            }
+        },
+        "Save MAP/untitled.tmx#Plant": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Save MAP/untitled.tmx#Player_Rabbit": {
+            "scaleInEditor": 1
+        },
+        "Save MAP/untitled.tmx#Props": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Save MAP/untitled.tmx#Shadow": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#Shadow Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#Shadow_Plant": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#Struct": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#TX Tileset Stone Ground": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#TX Tileset Wall": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Save MAP/untitled.tmx#TX_Player": {
+            "scaleInDock": 1
+        },
+        "Save MAP/untitled.tmx#Tileset Grass": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Save MAP/untitled.tmx#Tileset Wall": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/thomas/Documents/Wac/Wac_2/W-WEB-280-LYN-4-1-gaming-thomas.meyet/Maps",
+    "last.imagePath": "/Users/thomas/Documents/Wac/Wac_2/W-WEB-280-LYN-4-1-gaming-thomas.meyet/Texture",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Save MAP/ThreeMap/untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Save MAP/ThreeMap/untitled.tmx",
+        "Save MAP/TutoSave/untitled.tmx",
+        "Save MAP/SecoundSave/untitled.tmx",
+        "Save MAP/untitled.tmx",
+        "/Users/thomas/Documents/Wac/Wac_2/Save MAP/untitled.tmx",
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/CartesRuinesSave.tmx",
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/SaveMap/TX Tileset Wall.tsx",
+        "/Users/thomas/Documents/Wac/Wac_2/Test_tiled/Texture/TX Tileset Wall.tsx"
+    ],
+    "tileset.embedInMap": true
+}

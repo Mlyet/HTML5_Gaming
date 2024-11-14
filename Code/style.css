@@ -1,0 +1,15 @@
+body {
+    cursor: none;
+}
+#info {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);;
+    padding: 1em;
+    li {
+        font-family: cursive;
+        font-size: 20px;
+        color: white;
+        list-style: none;
+        
+    }
+}
